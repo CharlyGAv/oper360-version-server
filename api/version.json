@@ -1,1 +1,2 @@
-{"forceUpdate": false, "currentVersion": "2.0.1", "minSupportedVersion": "2.0.1", "message": "Tu versión está actualizada", "downloadUrl": "https://[tu-username].github.io/oper360-version-server/releases/Oper360v2.0.1.apk", "releaseNotes": "Sistema de bloqueo de versiones antiguas implementado"}
+{"forceUpdate": true, "currentVersion": "2.0.1", "minSupportedVersion": "2.0.2", "message": "SE REQUIERE UNA VERSION ACTUALIZADA", "downloadUrl": "https://[tu-username].github.io/oper360-version-server/releases/Oper360v2.0.1.apk", "releaseNotes": "Sistema de bloqueo de versiones antiguas implementado"}
+
