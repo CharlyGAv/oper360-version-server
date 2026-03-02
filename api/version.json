@@ -1,11 +1,12 @@
 {
   "forceUpdate": true,
-  "currentVersion": "2.0.2",
-  "minSupportedVersion": "2.0.2",
-  "message": "Aplicación no actualizada. Descarga la versión 2.0.2 para continuar.",
+  "currentVersion": "2.0.3",
+  "minSupportedVersion": "2.0.3",
+  "message": "Aplicación no actualizada. Descarga la versión 2.0.3 para continuar.",
   "downloadUrl": "https://drive.google.com/drive/folders/19CDnBJy4fVhVDquK10OOzdHFJDHMsD99?usp=sharing",
   "releaseNotes": "Sistema de bloqueo de versiones antiguas implementado"
 }
+
 
 
 
